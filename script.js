@@ -16,7 +16,7 @@ document.querySelector('.close-modal').onclick = function() {
 }
 
 
-Lorem ipsum dolor sit amet, conseteur adipsicing elit, Integer nec odio. Preesent libero, Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperidiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue sumper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. 
+// Lorem ipsum dolor sit amet, conseteur adipsicing elit, Integer nec odio. Preesent libero, Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperidiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue sumper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. 
 
 
 
